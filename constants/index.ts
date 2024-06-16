@@ -80,8 +80,8 @@ export const SOCIALS = {
   title: 'Social',
   links: [
   { href:'https://www.wordpress.com',key:'wordpress_page',image: '/wordpress.svg'},
-  { href:'https://www.instagram.com',key:'instagram_page',image:'/facebook.svg'},
-  { href:'https://www.facebook.com',key:'facebook_page',image: '/instagram.svg'},
+  { href:'https://www.facebook.com',key:'facebook_page',image:'/facebook.svg'},
+  { href:'https://www.instagram.com',key:'instagram_page',image: '/instagram.svg'},
   { href:'https://www.twitter.com',key:'twitter_page',image: '/twitter.svg'},
   { href:'https://www.youtube.com',key:'youtube_page',image:'/youtube.svg'},
   ],
